@@ -1,0 +1,40 @@
+This is rank_1, recieving the following input: 
+This is data for run 1
+This is rank_3, recieving the following input: 
+This is data for run 3
+This is rank_0, recieving the following input: 
+This is data for run 0
+This is rank_2, recieving the following input: 
+This is data for run 2
+This is rank_3, recieving the following input: 
+This is data for run 7
+This is rank_1, recieving the following input: 
+This is data for run 5
+This is rank_2, recieving the following input: 
+This is data for run 6
+This is rank_0, recieving the following input: 
+This is data for run 4
+This is rank_1, recieving the following input: 
+This is data for run 9
+This is rank_3, recieving the following input: 
+This is data for run 11
+This is rank_2, recieving the following input: 
+This is data for run 10
+This is rank_0, recieving the following input: 
+This is data for run 8
+This is rank_3, recieving the following input: 
+This is data for run 15
+This is rank_1, recieving the following input: 
+This is data for run 13
+This is rank_2, recieving the following input: 
+This is data for run 14
+This is rank_0, recieving the following input: 
+This is data for run 12
+This is rank_1, recieving the following input: 
+This is data for run 17
+This is rank_2, recieving the following input: 
+This is data for run 18
+This is rank_3, recieving the following input: 
+This is data for run 19
+This is rank_0, recieving the following input: 
+This is data for run 16
